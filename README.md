@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frontend eğitiminde oluşturduğum ilk repodur.
 
+![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
