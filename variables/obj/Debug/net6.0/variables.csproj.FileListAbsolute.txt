@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\variables\bin\Debug\net6.0\variables.exe
+D:\gitrepos\kodluyoruzilkrepo\variables\bin\Debug\net6.0\variables.deps.json
+D:\gitrepos\kodluyoruzilkrepo\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\variables\bin\Debug\net6.0\variables.dll
+D:\gitrepos\kodluyoruzilkrepo\variables\bin\Debug\net6.0\variables.pdb
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.dll
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\refint\variables.dll
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.pdb
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\variables\obj\Debug\net6.0\ref\variables.dll
