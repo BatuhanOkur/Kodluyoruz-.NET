@@ -1,96 +1,56 @@
 ﻿using System;
 
-namespace SwitchCase
+namespace ForLoopBreakContinue
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            int month = DateTime.Now.Month;
-
-            switch (month)
+            // Ekrandan girilen sayıya kadar olan tek sayılarını ekrana yazdır.
+            Console.Write("Lütfen bir sayı giriniz: ");
+            int sayac = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= sayac; i++)
             {
-                case 1:
-                    Console.WriteLine("Ocak ayındasınız!");
-                    break;
-
-                case 2:
-                    Console.WriteLine("Şubat ayındasınız!");
-                    break;
-
-                case 3:
-                    Console.WriteLine("Mart ayındasınız!");
-                    break;
-
-                case 4:
-                    Console.WriteLine("Nisan ayındasınız!");
-                    break;
-
-                case 5:
-                    Console.WriteLine("Mayıs ayındasınız!");
-                    break;
-
-                case 6:
-                    Console.WriteLine("Haziran ayındasınız!");
-                    break;
-
-                case 7:
-                    Console.WriteLine("Temmuz ayındasınız!");
-                    break;
-
-                case 8:
-                    Console.WriteLine("Ağustos ayındasınız!");
-                    break;
-
-                case 9:
-                    Console.WriteLine("Eylül ayındasınız!");
-                    break;
-
-                case 10:
-                    Console.WriteLine("Ekim ayındasınız!");
-                    break;
-
-                case 11:
-                    Console.WriteLine("Kasım ayındasınız!");
-                    break;
-
-                case 12:
-                    Console.WriteLine("Aralık ayındasınız!");
-                    break;
-
-                default:
-                    Console.WriteLine("Yanlış veri girişi.");
-                    break;
+                if (i % 2 == 1)
+                {
+                    Console.WriteLine(i);
+                }
             }
 
-            switch (month)
+            // 1 ile 1000 arasındaki tek ve çift sayıların kendi içlerinde toplamlarını ekrana yazdır.
+            int tekToplam = 0;
+            int ciftToplam = 0;
+            for (int i = 0; i <= 1000; i++)
             {
-                case 12:
-                case 1:
-                case 2:
-                    Console.WriteLine("Kış mevsimindesiniz!");
-                    break;
+                if (i % 2 == 1)
+                {
+                    tekToplam += i;
+                }
+                else
+                {
+                    ciftToplam += i;
+                }
+            }
+            Console.WriteLine("Tek Toplam : " + tekToplam);
+            Console.WriteLine("Çift Toplam : " + ciftToplam);
 
-                case 3:
-                case 4:
-                case 5:
-                    Console.WriteLine("İlk bahar mevsimindesiniz!");
+            //break, continue
+            for (int i = 0; i < 10; i++)
+            {
+                if (i == 4)
+                {
                     break;
+                }
+                Console.WriteLine(i);
+            }
 
-                case 6:
-                case 7:
-                case 8:
-                    Console.WriteLine("Yaz mevsimindesiniz!");
-                    break;
-
-                case 9:
-                case 10:
-                case 11:
-                    Console.WriteLine("Son bahar mevsimindesiniz!");
-                    break;
-
-                default:
-                    break;
+            for (int i = 0; i < 10; i++)
+            {
+                if (i == 4)
+                {
+                    continue;
+                }
+                Console.WriteLine(i);
             }
         }
     }
