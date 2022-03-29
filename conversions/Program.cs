@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace tip_donusumleri
+namespace TypeConversions
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //Implicit Conversion (Bilinçsiz Dönüşüm)
             byte a = 5;
             sbyte b = 30;
             short c = 10;
@@ -24,6 +25,7 @@ namespace tip_donusumleri
             object g = e + f + d;
             Console.WriteLine("g:" + g);
 
+            //Explicit Conversion(Bilinçli Dönüşüm)
 
             int x = 4;
             byte y = (byte)x;
@@ -37,6 +39,7 @@ namespace tip_donusumleri
             byte v = (byte)w;
             Console.WriteLine("v: " + v);
 
+            //ToString Metodu
             int xx = 6;
             string yy = xx.ToString();
             Console.WriteLine("yy: " + yy);
@@ -44,6 +47,7 @@ namespace tip_donusumleri
             string zz = 12.5f.ToString();
             Console.WriteLine("zz: " + zz);
 
+            //System.Covert Sınıfı
             string s1 = "10", s2 = "20";
             int sayi1, sayi2;
             int toplam;
@@ -53,6 +57,7 @@ namespace tip_donusumleri
             toplam = sayi1 + sayi2;
             Console.WriteLine("toplam: " + toplam);
 
+            //Parse Metodu
             ParseMethod();
         }
 
