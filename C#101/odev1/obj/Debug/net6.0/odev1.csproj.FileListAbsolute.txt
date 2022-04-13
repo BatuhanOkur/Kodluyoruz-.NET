@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\bin\Debug\net6.0\odev1.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\bin\Debug\net6.0\odev1.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\bin\Debug\net6.0\odev1.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\bin\Debug\net6.0\odev1.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\bin\Debug\net6.0\odev1.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\refint\odev1.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\odev1.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev1\obj\Debug\net6.0\ref\odev1.dll
