@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\refint\DateTimeandMath.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\DateTimeandMath\obj\Debug\net6.0\ref\DateTimeandMath.dll
