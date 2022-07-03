@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\bin\Debug\net6.0\GenericList.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\bin\Debug\net6.0\GenericList.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\bin\Debug\net6.0\GenericList.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\bin\Debug\net6.0\GenericList.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\refint\GenericList.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\GenericList\obj\Debug\net6.0\ref\GenericList.dll
