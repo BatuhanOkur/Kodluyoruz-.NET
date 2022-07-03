@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\bin\Debug\net6.0\Dictionary.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
