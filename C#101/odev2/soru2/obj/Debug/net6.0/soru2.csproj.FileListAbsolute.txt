@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\bin\Debug\net6.0\soru2.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\bin\Debug\net6.0\soru2.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\bin\Debug\net6.0\soru2.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\bin\Debug\net6.0\soru2.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\bin\Debug\net6.0\soru2.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\refint\soru2.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\soru2.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\odev2\soru2\obj\Debug\net6.0\ref\soru2.dll
