@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\bin\Debug\net6.0\Struct.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\bin\Debug\net6.0\Struct.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\bin\Debug\net6.0\Struct.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\bin\Debug\net6.0\Struct.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\refint\Struct.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Struct\obj\Debug\net6.0\ref\Struct.dll
