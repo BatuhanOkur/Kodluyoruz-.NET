@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\bin\Debug\net6.0\Enum.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\bin\Debug\net6.0\Enum.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\bin\Debug\net6.0\Enum.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\bin\Debug\net6.0\Enum.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\refint\Enum.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\Enum\obj\Debug\net6.0\ref\Enum.dll
