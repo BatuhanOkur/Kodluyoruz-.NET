@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\bin\Debug\net6.0\ConstructorMethods.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\refint\ConstructorMethods.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ConstructorMethods.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ConstructorMethods\obj\Debug\net6.0\ref\ConstructorMethods.dll
