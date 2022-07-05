@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
