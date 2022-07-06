@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\OOP\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
