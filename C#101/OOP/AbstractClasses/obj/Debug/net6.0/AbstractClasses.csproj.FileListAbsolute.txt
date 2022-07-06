@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\bin\Debug\net6.0\AbstractClasses.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\bin\Debug\net6.0\AbstractClasses.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\AbstractClasses.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll
