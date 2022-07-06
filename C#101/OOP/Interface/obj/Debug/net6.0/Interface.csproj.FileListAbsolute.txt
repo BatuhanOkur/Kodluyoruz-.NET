@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\bin\Debug\net6.0\Interface.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\bin\Debug\net6.0\Interface.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\bin\Debug\net6.0\Interface.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\oop\Interface\obj\Debug\net6.0\ref\Interface.dll
