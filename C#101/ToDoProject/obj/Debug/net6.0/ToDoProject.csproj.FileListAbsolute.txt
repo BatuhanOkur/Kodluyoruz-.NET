@@ -1,0 +1,15 @@
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\bin\Debug\net6.0\ToDoProject.exe
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\bin\Debug\net6.0\ToDoProject.deps.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\bin\Debug\net6.0\ToDoProject.runtimeconfig.json
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\bin\Debug\net6.0\ToDoProject.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\bin\Debug\net6.0\ToDoProject.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.csproj.AssemblyReference.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.AssemblyInfoInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.AssemblyInfo.cs
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.csproj.CoreCompileInputs.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\refint\ToDoProject.dll
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.pdb
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ToDoProject.genruntimeconfig.cache
+D:\gitrepos\kodluyoruzilkrepo\C#101\ToDoProject\obj\Debug\net6.0\ref\ToDoProject.dll
