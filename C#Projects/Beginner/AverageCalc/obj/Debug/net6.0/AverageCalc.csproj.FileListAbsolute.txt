@@ -1,0 +1,15 @@
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\bin\Debug\net6.0\AverageCalc.exe
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\bin\Debug\net6.0\AverageCalc.deps.json
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\bin\Debug\net6.0\AverageCalc.runtimeconfig.json
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\bin\Debug\net6.0\AverageCalc.dll
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\bin\Debug\net6.0\AverageCalc.pdb
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.csproj.AssemblyReference.cache
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.AssemblyInfoInputs.cache
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.AssemblyInfo.cs
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.csproj.CoreCompileInputs.cache
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.dll
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\refint\AverageCalc.dll
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.pdb
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\AverageCalc.genruntimeconfig.cache
+D:\gitrepos\Kodluyoruz-.NET\C#Projects\Beginner\AverageCalc\obj\Debug\net6.0\ref\AverageCalc.dll
