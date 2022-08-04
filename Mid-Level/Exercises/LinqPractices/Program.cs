@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using LinqPractices.DBOperations;
 
 namespace LinqPractices
 {
@@ -6,7 +8,11 @@ namespace LinqPractices
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DataGenerator.Initialize();
+            LinqDbContext _context = new LinqDbContext();
+            var students = _context.Students.ToList<Student>();
+
+            
         }
     }
 }
