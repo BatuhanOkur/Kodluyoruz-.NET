@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace LinqPractices
+namespace LinqPractices.DBOperations
 {
     public class LinqDbContext: DbContext
     {
