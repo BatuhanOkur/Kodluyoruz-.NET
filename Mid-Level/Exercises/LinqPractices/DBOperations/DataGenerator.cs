@@ -32,7 +32,7 @@ namespace LinqPractices.DBOperations
                         ClassId = 10
                     },
                     new Student(){
-                        StudentId = 1,
+                        StudentId = 4,
                         Name = "Batuhan",
                         Surname = "Okur",
                         ClassId = 9
