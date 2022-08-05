@@ -26,7 +26,7 @@ namespace LinqPractices
 
             student = _context.Students.FirstOrDefault(student => student.Name == "Batuhan");
             Console.WriteLine(student.Name + " " + student.Surname);
-
+            
         }
     }
 }
