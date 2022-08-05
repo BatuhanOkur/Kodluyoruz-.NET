@@ -26,7 +26,13 @@ namespace LinqPractices
 
             student = _context.Students.FirstOrDefault(student => student.Name == "Batuhan");
             Console.WriteLine(student.Name + " " + student.Surname);
-            
+
+            //SingleOrDefault
+            Console.WriteLine();
+            Console.WriteLine("**********SingleOrDefault***********");
+            student = _context.Students.SingleOrDefault(student => student.Name == "Süleyman");
+            Console.WriteLine(student.Name + " " + student.Surname);
+
         }
     }
 }
