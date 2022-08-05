@@ -32,6 +32,11 @@ namespace LinqPractices.DBOperations
                         Name = "Batuhan",
                         Surname = "Okur",
                         ClassId = 9
+                    },
+                    new Student(){
+                        Name = "Batuhan",
+                        Surname = "Yılmaz",
+                        ClassId = 8
                     }
                 );
                 context.SaveChanges();
