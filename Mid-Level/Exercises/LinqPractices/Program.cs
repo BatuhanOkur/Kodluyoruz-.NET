@@ -18,7 +18,15 @@ namespace LinqPractices
             student = _context.Students.Find(1);
             Console.WriteLine(student.Name + " " + student.Surname);
             
-            //
+            //FirstOrDefault
+            Console.WriteLine();
+            Console.WriteLine("**********FirstOrDefault***********");
+            student = _context.Students.Where(student => student.Name == "Batuhan").FirstOrDefault();
+            Console.WriteLine(student.Name + " " + student.Surname);
+
+            student = _context.Students.FirstOrDefault(student => student.Name == "Batuhan");
+            Console.WriteLine(student.Name + " " + student.Surname);
+
         }
     }
 }
