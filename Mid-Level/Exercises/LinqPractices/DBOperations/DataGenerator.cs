@@ -21,7 +21,7 @@ namespace LinqPractices.DBOperations
                     new Student(){
                         Name = "Gül",
                         Surname = "Okur",
-                        ClassId = 12
+                        ClassId = 11
                     },
                     new Student(){
                         Name = "Süleyman",
