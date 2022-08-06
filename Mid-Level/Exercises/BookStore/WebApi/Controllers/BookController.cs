@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using WebApi.BookOperations.CreateBook;
+using WebApi.BookOperations.GetBookDetail;
 using WebApi.BookOperations.GetBooks;
 using WebApi.BookOperations.UpdateBook;
 using WebApi.DBOperations;
@@ -27,10 +28,20 @@ namespace WebApi.AddControllers
         }
 
         [HttpGet("{id}")]
-        public Book GetById(int id)
+        public IActionResult GetById(int id)
         {
-            var book = _context.Books.Where(book=> book.Id == id).SingleOrDefault();
-            return book; 
+            GetBookDetailModel result;
+            GetBookDetailQuery query = new GetBookDetailQuery(_context);
+            try
+            {
+                query.BookId = id;
+                result = query.Handle();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            return Ok(result);
         }
 
         // [HttpGet]
