@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using WebApi.BookOperations.CreateBook;
 using WebApi.BookOperations.GetBooks;
 using WebApi.DBOperations;
 
@@ -40,14 +41,20 @@ namespace WebApi.AddControllers
 
         //POST
         [HttpPost]
-        public IActionResult AddBook([FromBody] Book newBook)
+        public IActionResult AddBook([FromBody] CreateBookModel newBook)
         {
-            var book = _context.Books.SingleOrDefault(book => book.Title == newBook.Title);
-            if(book is not null)
-                return  BadRequest();
+            CreateBookCommand command = new CreateBookCommand(_context);
+            try
+            {
+                command.Model = newBook;
+                command.Handle();
+            }
+            catch (Exception ex)
+            {
+                
+                return BadRequest(ex.Message);
+            }
 
-            _context.Books.Add(newBook);
-            _context.SaveChanges();
             return Ok();
         }
 
