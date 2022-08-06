@@ -35,7 +35,7 @@ namespace WebApi.AddControllers
         public IActionResult GetById(int id)
         {
             GetBookDetailModel result;
-            GetBookDetailQuery query = new GetBookDetailQuery(_context);
+            GetBookDetailQuery query = new GetBookDetailQuery(_context, _mapper);
             try
             {
                 query.BookId = id;
