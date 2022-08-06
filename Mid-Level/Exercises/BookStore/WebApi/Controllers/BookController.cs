@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using WebApi.BookOperations.GetBooks;
 using WebApi.DBOperations;
 
 namespace WebApi.AddControllers
@@ -15,35 +16,12 @@ namespace WebApi.AddControllers
         {
             _context = context;
         }
-        // private static List<Book> BookList = new List<Book>(){
-        //     new Book{
-        //         Id = 1,
-        //         Title = "Türklerin Tarihi",
-        //         GenreId = 1, //history
-        //         PageCount = 200,
-        //         PublishDate = new DateTime(2001,06,12)
-        //     },
-        //     new Book{
-        //         Id = 2,
-        //         Title = "Herland",
-        //         GenreId = 2, //Science Fic
-        //         PageCount = 250,
-        //         PublishDate = new DateTime(2010,05,23)
-        //     },
-        //     new Book{
-        //         Id = 3,
-        //         Title = "Dune",
-        //         GenreId = 2, //Science Fic
-        //         PageCount = 250,
-        //         PublishDate = new DateTime(2018,04,13)
-        //     }
-        // };
-
         [HttpGet]
-        public List<Book> GetBooks()
+        public IActionResult GetBooks()
         {
-            var booklist = _context.Books.OrderBy(book=> book.Id).ToList<Book>();
-            return booklist;
+            GetBooksQuery query = new GetBooksQuery(_context);
+            var result = query.Handle();
+            return Ok(result);
         }
 
         [HttpGet("{id}")]
