@@ -38,6 +38,8 @@ namespace WebApi.AddControllers
             try
             {
                 query.BookId = id;
+                GetBookDetailQueryValidator validator = new GetBookDetailQueryValidator();
+                validator.ValidateAndThrow(query);
                 result = query.Handle();
             }
             catch (Exception ex)
