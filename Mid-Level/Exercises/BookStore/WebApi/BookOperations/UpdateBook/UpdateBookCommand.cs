@@ -1,5 +1,6 @@
 using System;
 using System.Linq;
+using AutoMapper;
 using WebApi.DBOperations;
 
 namespace WebApi.BookOperations.UpdateBook
@@ -8,6 +9,7 @@ namespace WebApi.BookOperations.UpdateBook
     {
         public UpdateBookModel Model {get; set;}
         public int BookId {get; set;}
+
         private readonly BookStoreDbContext _dbContext;
         public UpdateBookCommand(BookStoreDbContext dbContext)
         {
@@ -19,7 +21,7 @@ namespace WebApi.BookOperations.UpdateBook
             var book = _dbContext.Books.SingleOrDefault(book => book.Id == BookId);
             if(book is null)
                 throw new InvalidOperationException("Güncellenecek kitap bulunamadı!");
-            
+            // book = _mapper.Map<Book>(Model);
             book.GenreId = Model.GenreId != default ? Model.GenreId : book.GenreId;
             book.PageCount = Model.PageCount != default ? Model.PageCount : book.PageCount;
             book.PublishDate = Model.PublishDate != default ? Model.PublishDate : book.PublishDate;
