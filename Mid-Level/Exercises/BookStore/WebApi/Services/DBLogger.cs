@@ -4,7 +4,7 @@ namespace WebApi.Services
 {
     public interface DBLogger:ILoggerService
     {
-        public void Write(string message)
+        public new void Write(string message)
         {
             Console.WriteLine("[DBLogger] - " + message);
         }
