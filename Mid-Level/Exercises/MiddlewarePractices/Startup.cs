@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using MiddlewarePractices.Middlewares;
 
 namespace MiddlewarePractices
 {
@@ -72,6 +73,8 @@ namespace MiddlewarePractices
             //     await next.Invoke();
             //     Console.WriteLine("Middleware 3 sonlandırılıyor...");
             // });
+
+            app.UseHello();
 
             app.Use(async(context,next)=>{
                 Console.WriteLine("Use Middleware tetiklendi");
