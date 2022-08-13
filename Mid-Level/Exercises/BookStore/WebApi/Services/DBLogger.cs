@@ -2,9 +2,9 @@ using System;
 
 namespace WebApi.Services
 {
-    public interface DBLogger:ILoggerService
+    public class DBLogger:ILoggerService
     {
-        public new void Write(string message)
+        public void Write(string message)
         {
             Console.WriteLine("[DBLogger] - " + message);
         }
