@@ -46,9 +46,6 @@ namespace WebApi.Middlewares
 
             var result = JsonConvert.SerializeObject(new {error = ex.Message}, Formatting.None);
             return context.Response.WriteAsync(result);
-
-
-
         }
     }
 
