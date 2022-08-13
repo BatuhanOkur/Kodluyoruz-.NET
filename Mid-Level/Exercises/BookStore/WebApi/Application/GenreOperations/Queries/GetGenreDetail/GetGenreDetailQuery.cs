@@ -12,25 +12,25 @@ namespace WebApi.Application.GenreOperations.Queries.GetGenreDetail
         private readonly BookStoreDbContext _context;
 
         private readonly IMapper _mapper;
-        public GetGenreDetailQuery(IMapper mapper, BookStoreDbContext context)
+        public GetGenreDetailQuery(BookStoreDbContext context, IMapper mapper)
         {
             _mapper = mapper;
             _context = context;
         }
 
-        public GetGenresViewModel Handle()
+        public GetGenreDetailViewModel Handle()
         {
             var genre = _context.Genres.SingleOrDefault(x => x.IsActive && x.Id == GenreId);
             if(genre is null)
                 throw new InvalidOperationException("Kitap türü bulunamadı.");
             
-            GetGenresViewModel returnObj = _mapper.Map<GetGenresViewModel>(genre);
+            GetGenreDetailViewModel returnObj = _mapper.Map<GetGenreDetailViewModel>(genre);
             return returnObj;
         }
 
     }
 
-    public class GetGenresViewModel
+    public class GetGenreDetailViewModel
     {
         public int Id { get; set; }
         public string Name { get; set; }
