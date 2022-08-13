@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -49,6 +50,49 @@ namespace MiddlewarePractices
             app.UseRouting();
 
             app.UseAuthorization();
+            //app.Run()
+            //app.Run(async context => Console.WriteLine("Middleware 1."));
+            //app.Run(async context => Console.WriteLine("Middleware 2."));
+
+            //app.Use()
+            // app.Use(async(context,next)=>{
+            //     Console.WriteLine("Middleware 1 başladı");
+            //     await next.Invoke();
+            //     Console.WriteLine("Middleware 1 sonlandırılıyor...");
+            // });
+
+            // app.Use(async(context,next)=>{
+            //     Console.WriteLine("Middleware 2 başladı");
+            //     await next.Invoke();
+            //     Console.WriteLine("Middleware 2 sonlandırılıyor...");
+            // });
+
+            // app.Use(async(context,next)=>{
+            //     Console.WriteLine("Middleware 3 başladı");
+            //     await next.Invoke();
+            //     Console.WriteLine("Middleware 3 sonlandırılıyor...");
+            // });
+
+            app.Use(async(context,next)=>{
+                Console.WriteLine("Use Middleware tetiklendi");
+                await next.Invoke();
+            });
+
+            //app.Map
+            app.Map("/example",internalApp => 
+            internalApp.Run(async context =>
+            {
+                Console.WriteLine("/example middleware tetiklendi");
+                await context.Response.WriteAsync("/example middleware tetiklendi");
+            }));
+
+            //app.MapWhen
+            app.MapWhen(x => x.Request.Method =="GET", internalApp=>{
+                internalApp.Run(async context=> {
+                    Console.WriteLine("Mapwhen middleware tetiklendi.");
+                    await context.Response.WriteAsync("Mapwhen middleware tetiklendi.");
+                });
+            });
 
             app.UseEndpoints(endpoints =>
             {
