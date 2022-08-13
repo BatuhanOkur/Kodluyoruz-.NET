@@ -2,9 +2,9 @@ using System;
 
 namespace WebApi.Services
 {
-    public interface ConsoleLogger : ILoggerService
+    public class ConsoleLogger : ILoggerService
     {
-        public new void Write(string message)
+        public void Write(string message)
         {
             Console.WriteLine("[ConsoleLogger] - " + message);
         }
