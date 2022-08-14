@@ -1,4 +1,5 @@
 using AutoMapper;
+using WebApi.Application.AuthorOperations.Commands.CreateAuthor;
 using WebApi.Application.AuthorOperations.Queries.GetAuthorDetail;
 using WebApi.Application.AuthorOperations.Queries.GetAuthors;
 using WebApi.Application.BookOperations.Commands.CreateBook;
@@ -15,12 +16,13 @@ namespace WebApi.Common
         public MappingProfile()
         {
             CreateMap<CreateBookModel, Book>();
-            CreateMap<Book, GetBookDetailModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
-            CreateMap<Book, BooksViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name));
+            CreateMap<Book, GetBookDetailModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name)).ForMember(dest => dest.Author, opt => opt.MapFrom(src => src.Author.ToString()));
+            CreateMap<Book, BooksViewModel>().ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre.Name)).ForMember(dest => dest.Author, opt => opt.MapFrom(src => src.Author.ToString()));
             CreateMap<Genre,GetGenresViewModel>();
             CreateMap<Genre,GetGenreDetailViewModel>();
             CreateMap<Author,GetAuthorsViewModel>();
             CreateMap<Author,GetAuthorDetailViewModel>();
+            CreateMap<CreateAuthorViewModel, Author>();
         }
     }
 }
