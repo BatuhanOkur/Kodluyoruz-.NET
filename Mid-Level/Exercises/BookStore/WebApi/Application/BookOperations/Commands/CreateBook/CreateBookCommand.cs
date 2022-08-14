@@ -21,6 +21,12 @@ namespace WebApi.Application.BookOperations.Commands.CreateBook
             var book = _dbContext.Books.SingleOrDefault(x => x.Title == Model.Title);
             if (book is not null)
                 throw new InvalidOperationException("Kitap zaten mevcut!");
+            if(!(_dbContext.Authors.Any(x => x.Id == Model.AuthorId)))
+                throw new InvalidOperationException("Yazar bilgisi yanlış girildi!");
+            
+            if(!(_dbContext.Genres.Any(x => x.Id == Model.GenreId)))
+                throw new InvalidOperationException("Kitap kategorisi mevcut değildir!");
+                
             book = _mapper.Map<Book>(Model); //new Book();
             // book.Title = Model.Title;
             // book.GenreId = Model.GenreId;
@@ -38,6 +44,7 @@ namespace WebApi.Application.BookOperations.Commands.CreateBook
         public string Title {get; set;}
         public int GenreId { get; set; }
         public int PageCount { get; set; }
+        public int AuthorId { get; set; }
         public DateTime PublishDate {get; set;}
     }
 }
