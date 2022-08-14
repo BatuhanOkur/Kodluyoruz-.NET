@@ -24,7 +24,8 @@ namespace WebApi.Application.AuthorOperations.Commands.CreateAuthor
             == new string(Model.Name.ToLower().Trim() + " " +Model.Surname.ToLower().Trim()));
             if(author is not null)
                 throw new OverflowException("Bu yazar zaten mevcut!");
-            _context.Authors.Add(_mapper.Map<Author>(Model));
+            var newAuthor = _mapper.Map<Author>(Model);    
+            _context.Authors.Add(newAuthor);
             _context.SaveChanges();
         }
     }
