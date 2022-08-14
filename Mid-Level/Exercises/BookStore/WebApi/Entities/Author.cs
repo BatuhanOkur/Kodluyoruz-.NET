@@ -11,17 +11,10 @@ namespace WebApi.Entities
         public string Surname { get; set; }
         public DateTime BirthDate { get; set; }
 
-        public Author(int id, string name, string surname, DateTime birthDate)
-        {
-            Id = id;
-            Name = name;
-            Surname = surname;
-            BirthDate = birthDate;
-        }
 
         public override string ToString()
         {
-            return new string(Name + " " + Surname + " - DT: " + BirthDate.Date);
+            return new string(Name + " " + Surname);
         }
     }
 }
