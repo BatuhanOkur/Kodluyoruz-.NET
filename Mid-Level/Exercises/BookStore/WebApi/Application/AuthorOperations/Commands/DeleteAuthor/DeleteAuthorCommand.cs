@@ -4,11 +4,11 @@ using WebApi.DBOperations;
 
 namespace WebApi.Application.AuthorOperations.Commands.DeleteAuthor
 {
-    public class DeteleAuthorCommand
+    public class DeleteAuthorCommand
     {
         private readonly BookStoreDbContext _context;
 
-        public DeteleAuthorCommand(BookStoreDbContext context)
+        public DeleteAuthorCommand(BookStoreDbContext context)
         {
             _context = context;
         }
