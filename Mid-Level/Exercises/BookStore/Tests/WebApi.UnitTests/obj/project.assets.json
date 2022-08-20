@@ -6675,11 +6675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
+      "projectUniqueName": "d:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
       "projectName": "WebApi.UnitTests",
-      "projectPath": "D:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
+      "projectPath": "d:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
       "packagesPath": "C:\\Users\\ghjk2\\.nuget\\packages\\",
-      "outputPath": "D:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\obj\\",
+      "outputPath": "d:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\Tests\\WebApi.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghjk2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6696,8 +6696,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\WebApi\\WebApi.csproj": {
-              "projectPath": "D:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\WebApi\\WebApi.csproj"
+            "d:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\WebApi\\WebApi.csproj": {
+              "projectPath": "d:\\gitrepos\\Kodluyoruz-.NET\\Mid-Level\\Exercises\\BookStore\\WebApi\\WebApi.csproj"
             }
           }
         }
