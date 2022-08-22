@@ -1,5 +1,6 @@
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using WebApi.Common;
 using WebApi.DBOperations;
 
 namespace TestSetup
@@ -18,6 +19,8 @@ namespace TestSetup
             Context.AddGenres();
             Context.AddAuthors();
             Context.SaveChanges();
+
+            Mapper = new MapperConfiguration(cfg => {cfg.AddProfile<MappingProfile>();}).CreateMapper();
         }
 
     }
