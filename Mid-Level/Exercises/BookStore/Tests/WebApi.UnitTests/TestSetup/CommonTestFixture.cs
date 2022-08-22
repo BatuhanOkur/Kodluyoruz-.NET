@@ -14,6 +14,10 @@ namespace TestSetup
             var options = new DbContextOptionsBuilder<BookStoreDbContext>().UseInMemoryDatabase(databaseName:"BookStoreTestDB").Options;
             Context = new BookStoreDbContext(options);
             Context.Database.EnsureCreated();
+            Context.AddBooks();
+            Context.AddGenres();
+            Context.AddAuthors();
+            Context.SaveChanges();
         }
 
     }
