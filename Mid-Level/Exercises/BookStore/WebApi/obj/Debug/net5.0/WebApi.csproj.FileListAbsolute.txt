@@ -35,3 +35,10 @@ D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\obj\Debug\net5.
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

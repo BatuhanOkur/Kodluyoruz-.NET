@@ -22,7 +22,7 @@ namespace Application.BookOperations.Commands.CreateBook
         [InlineData("Lord", 100, 0)]
         [InlineData("Lord", 0, 1)]
         [InlineData(" ", 100, 1)]
-        public void WhenInvalidInputsAreGiven_Validator_ShouldBeReturnErrors(string title, int pageCount, int genreId)
+        public void WhenInvalidInputsAreGiven_Validator_ShouldBeReturnErrors(string title, int pageCount, int genreId, int authorId)
         {
             //arrange
             CreateBookCommand command = new CreateBookCommand(null, null);
@@ -30,6 +30,7 @@ namespace Application.BookOperations.Commands.CreateBook
             {
                 Title = title,
                 PageCount = pageCount,
+                AuthorId = authorId,
                 PublishDate = DateTime.Now.Date.AddYears(-1),
                 GenreId = genreId
             };
@@ -51,6 +52,7 @@ namespace Application.BookOperations.Commands.CreateBook
             {
                 Title = "Lord Of The Rings",
                 PageCount = 100,
+                AuthorId = 1,
                 PublishDate = DateTime.Now.Date,
                 GenreId = 1
             };
@@ -69,6 +71,7 @@ namespace Application.BookOperations.Commands.CreateBook
             {
                 Title = "Lord Of The Rings",
                 PageCount = 100,
+                AuthorId = 1,
                 PublishDate = DateTime.Now.Date.AddYears(-1),
                 GenreId = 1
             };

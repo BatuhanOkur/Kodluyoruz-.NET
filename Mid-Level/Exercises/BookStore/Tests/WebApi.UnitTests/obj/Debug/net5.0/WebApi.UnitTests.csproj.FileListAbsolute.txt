@@ -124,3 +124,10 @@ D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.pdb
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\WebApi.UnitTests.genruntimeconfig.cache
 D:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\obj\Debug\net5.0\ref\WebApi.UnitTests.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\gitrepos\Kodluyoruz-.NET\Mid-Level\Exercises\BookStore\Tests\WebApi.UnitTests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
