@@ -26,7 +26,13 @@ namespace Application.BookOperations.Commands.CreateBook
         {
             //arrange
             CreateBookCommand command = new CreateBookCommand(null, null);
-            command.Model = new CreateBookModel(){Title = title, PageCount = pageCount, PublishDate = DateTime.Now.Date.AddYears(-1), GenreId = genreId};
+            command.Model = new CreateBookModel()
+            {
+                Title = title,
+                PageCount = pageCount,
+                PublishDate = DateTime.Now.Date.AddYears(-1),
+                GenreId = genreId
+            };
 
             //act
             CreateBookCommandValidator validator = new CreateBookCommandValidator();
@@ -41,7 +47,13 @@ namespace Application.BookOperations.Commands.CreateBook
         public void WhenDateTimeEqualNowIsGiven_Validator_ShouldBeReturnError()
         {
             CreateBookCommand command = new CreateBookCommand(null, null);
-            command.Model = new CreateBookModel(){Title = "Lord Of The Rings", PageCount = 100, PublishDate = DateTime.Now.Date, GenreId = 1};
+            command.Model = new CreateBookModel()
+            {
+                Title = "Lord Of The Rings",
+                PageCount = 100,
+                PublishDate = DateTime.Now.Date,
+                GenreId = 1
+            };
 
             CreateBookCommandValidator validator = new CreateBookCommandValidator();
             var result = validator.Validate(command);
@@ -53,7 +65,13 @@ namespace Application.BookOperations.Commands.CreateBook
         public void WhenValidInputsAreGiven_Validator_ShouldNotBeReturnError()
         {
             CreateBookCommand command = new CreateBookCommand(null, null);
-            command.Model = new CreateBookModel(){Title = "Lord Of The Rings", PageCount = 100, PublishDate = DateTime.Now.Date.AddYears(-1), GenreId = 1};
+            command.Model = new CreateBookModel()
+            {
+                Title = "Lord Of The Rings",
+                PageCount = 100,
+                PublishDate = DateTime.Now.Date.AddYears(-1),
+                GenreId = 1
+            };
 
             CreateBookCommandValidator validator = new CreateBookCommandValidator();
             var result = validator.Validate(command);
