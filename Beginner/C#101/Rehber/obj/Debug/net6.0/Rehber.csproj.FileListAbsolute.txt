@@ -1,0 +1,15 @@
+D:\python\Rehber\bin\Debug\net6.0\Rehber.exe
+D:\python\Rehber\bin\Debug\net6.0\Rehber.deps.json
+D:\python\Rehber\bin\Debug\net6.0\Rehber.runtimeconfig.json
+D:\python\Rehber\bin\Debug\net6.0\Rehber.dll
+D:\python\Rehber\bin\Debug\net6.0\Rehber.pdb
+D:\python\Rehber\obj\Debug\net6.0\Rehber.csproj.AssemblyReference.cache
+D:\python\Rehber\obj\Debug\net6.0\Rehber.GeneratedMSBuildEditorConfig.editorconfig
+D:\python\Rehber\obj\Debug\net6.0\Rehber.AssemblyInfoInputs.cache
+D:\python\Rehber\obj\Debug\net6.0\Rehber.AssemblyInfo.cs
+D:\python\Rehber\obj\Debug\net6.0\Rehber.csproj.CoreCompileInputs.cache
+D:\python\Rehber\obj\Debug\net6.0\Rehber.dll
+D:\python\Rehber\obj\Debug\net6.0\refint\Rehber.dll
+D:\python\Rehber\obj\Debug\net6.0\Rehber.pdb
+D:\python\Rehber\obj\Debug\net6.0\Rehber.genruntimeconfig.cache
+D:\python\Rehber\obj\Debug\net6.0\ref\Rehber.dll
